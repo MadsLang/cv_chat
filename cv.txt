@@ -1,0 +1,45 @@
+Mads Lang Sørensen
+® Experienced in developing and implementing NLP/LLM/AI
+solutions
+® Large knowledge and interest in the potential of AI within the media industry
+® Multidisciplinary profile combining the best of data science with a background in social science
+® Extrovert and positive personality: Excellent at collaborating with a diverse range of backgrounds
+
+Work Experience
+2023-
+Data Scientist - Amsterdam Data Collective (ADC)
+madslangs MadsLang
+® Works hands-on with developing data and AI-solutions to client across different industries. I have particularly worked on projects involving NLP and language models. For example, I have worked with customer services by using language models to classify and extract information from e-mails to make the experience more efficient.
+® Works on all parts of the solutions: From compiling training data, training and finetuning the model, architecting deployment, CI-CD processes as well as setting up tools to interpret and monitor inference in production stages.
+® Furthermore, I have worked as a project manager on smaller projects.
+2021-2023
+Junior Consultant, Amsterdam Data Collective (ADC)
+® While only being part-time, I had a lot of responsibility and have worked hands-on on different data science projects. I worked with a wide range of tasks within NLP, data collection and more.
+Spring 2021
+Intern, Damvad Analytics (now ADC)
+® As an intern, I was introduced to a wide range of tasks within a data science and data analytics consultancy.
+2019–2020
+Junior Researcher, VIVE
+® Worked on research projects – particularly using register data from Statistics Denmark. My responsibilities included data analysis with a focus on causal inference and machine learning.
+
+Technical Experience
+Languages: Fluent in Python and R. Experienced with database-languages like SQL and NoSQL (Elasticsearch). Furthermore, a general knowledge and experience with HTML, CSS and basic Javascript.
+DevOps: Working daily with git, package management tools like pip and poetry, and container management with Docker. I also have experience with Kubernetes. I have also built CI-CD- pipelines in Azure Pipelines, Bitbucket Pipelines and Github Actions. I have also worked with API development – particularly with FastAPI.
+Cloud: I have worked mostly with AWS, where I hold the certification of AWS Cloud Practitioner. However, I have also worked some with Azure. I have also experience working with Infrastructure- As-Code, e.g. with AWS Cloudformation and Terraform.
+Modellering/NLP: Sklearn, Pytorch, Spacy, NLTK, and HuggingFace’s SDKs (datasets, transformers, SentenceTransformers, setfit, optimum). Annotation-tools like Doccano and Argilla. I have mostly used MLFlow for monitoring.
+LLMOps: I have some experience working with Langchain, Llamaindex, and OpenAI’s SDK. Visualization/dashboards: A lot of experience with packages such as matplotlib, seaborn,
+ggplot2 as well as interactive tools such as plotly, R Shiny and Streamlit.
+
+Education
+2021-2023
+Master’s degree, Sociology University of Copenhagen
+® In my thesis, I collaborated with Ekstra Bladet, where I examined how news values in the news
+content affects audience engagement on social media. In a large-scale study, I used a range of NLP-models to analyze three years of news shared by EB on Facebook. The thesis won the award for best master’s thesis 2022/2023 at Institute of Sociology.
+® During my studies, I took several elective courses related to data science, e.g. “Natural Language Processing” at Institute of Computer Science.
+2017-2021
+Bachelor’s degree, Sociology,
+University of Copenhagen
+® My thesis examined how social networks of interactions on 6000 Danish Facebook-groups
+affects the amount of crime in the local neighborhoods.
+® During my studies, I took several elective courses related to data science, e.g. “Econometrics
+and Machine Learning” and ”Introduction to Social Data Science” at Center for Social Data Science, University of Copenhagen.
